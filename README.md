@@ -4,6 +4,7 @@
 **iostream04/iostream04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![iostream04's GitHub stats](https://github-readme-stats.vercel.app/api?username=iostream04&hide=contribs,prs&count_private=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
